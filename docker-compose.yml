@@ -1,0 +1,9 @@
+version: "3.5"
+
+services:
+  fedimint-observer:
+    build:
+      context: .
+      dockerfile: dockerfile
+    env_file:
+      - ./.env

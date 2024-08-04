@@ -1,5 +1,5 @@
 /target
 .env
 test_db.sqlite
-fedimint_observer.db
+fedimint-observer.db
 .direnv
